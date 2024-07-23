@@ -6,5 +6,5 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=yansantos0&show icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=yansantos0&showicons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 

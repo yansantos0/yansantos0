@@ -2,7 +2,7 @@
 
 
 ###### Sobre o Yan
-7 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+Começando e aprendendo agora sobre o mundo da programação.
 
 ### Detalhes
 
